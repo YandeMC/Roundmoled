@@ -32,8 +32,8 @@ themevarsp
 :root{
     --dark-primary: #000000;
     --dark-secondary: #050505;
-    --dark-secondary-alt: #080808;
-    --dark-bright: #0b0b0b;
+    --dark-secondary-alt: #060606;
+    --dark-bright: #050505;
     --roundmoled-background: #142339;
     --popout-activeborders: #1f1f1f;
 }
